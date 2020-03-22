@@ -1,3 +1,3 @@
 # spring-boot-resource-server
 
-![Token Request](https://raw.githubusercontent.com/johnnycashash/spring-boot-resource-server/master/postman1.PNG)
+![USING TOKEN](https://raw.githubusercontent.com/johnnycashash/spring-boot-resource-server/master/postman1.PNG)
